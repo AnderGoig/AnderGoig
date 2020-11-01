@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AnderGoig&show_icons=true&icon_color=0366d6&text_color=6a737d&bg_color=ffffff&hide_title=true" />
+![](https://github-readme-stats.vercel.app/api?username=AnderGoig&show_icons=true&icon_color=0366d6&text_color=6a737d&bg_color=ffffff&hide_title=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderGoig&layout=compact&hide_title=true&card_width=445)
 
 <!--
 **AnderGoig/AnderGoig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
