@@ -7,8 +7,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-📱 &nbsp;I'm a passionate Senior iOS Enginer with over 5 years of professional experience.\
-🎓 &nbsp;I studied Computer Science at the Autonomous University of Madrid.
+📱 &nbsp;I'm a passionate Senior iOS Enginer with over 5 years of professional experience\
+🎓 &nbsp;I studied Computer Science at the Autonomous University of Madrid (Batch of 2018)\
+🍎 &nbsp;I enjoy building apps in my spare time too, visit the [App Store](https://apps.apple.com/es/developer/ander-goig/id1336038163) to check them out
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,13 +24,12 @@
 <p align="left">
 <a href="https://github.com/AnderGoig">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnderGoig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnderGoig&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/andergoig"><img src="https://img.shields.io/badge/-Ander%20Goig-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/andergoig"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:goig.ander@gmail.com"><img src="https://img.shields.io/badge/-goig.ander@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
