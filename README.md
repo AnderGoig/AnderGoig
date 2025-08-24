@@ -9,7 +9,7 @@
 
 📱 &nbsp;I'm a passionate Senior iOS Enginer with over 5 years of professional experience\
 🎓 &nbsp;I studied Computer Science at the Autonomous University of Madrid (Batch of 2018)\
-🍎 &nbsp;I enjoy building apps in my spare time too, visit the [App Store](https://apps.apple.com/es/developer/ander-goig/id1336038163) to check them out
+🍎 &nbsp;I enjoy building apps in my spare time too, visit the [App Store](https://apps.apple.com/developer/id1336038163) to check them out
 
 ### 🛠 &nbsp;Tech Stack
 
