@@ -24,7 +24,7 @@ I run [**Late Lunch**](https://latelunch.app), an independent app studio from Sp
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-📱 &nbsp;I'm a passionate Senior iOS Engineer with over 7 years of professional experience\
+📱 &nbsp;I'm a passionate Senior iOS Engineer with over 8 years of professional experience\
 🎓 &nbsp;I studied Computer Science at the Autonomous University of Madrid (Batch of 2018)\
 🍎 &nbsp;In my spare time I build and ship my own apps under Late Lunch
 
