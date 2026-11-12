@@ -16,7 +16,11 @@ I run [**Late Lunch**](https://latelunch.app), an independent app studio from Sp
 | [Contribution Graphs for GitHub](https://apps.apple.com/app/id1537192731) | Your GitHub contributions on iOS, with widgets to keep them in view |
 | [Sticker Creator Studio](https://apps.apple.com/app/id1456670323) | Turn your photos and memes into iMessage stickers |
 
-🌐 &nbsp;[latelunch.app](https://latelunch.app) · 🐙 &nbsp;[@latelunchapps](https://github.com/latelunchapps) · 🍎 &nbsp;[App Store](https://apps.apple.com/developer/id1336038163)
+<p align="left">
+<a href="https://latelunch.app"><img src="https://img.shields.io/badge/-latelunch.app-E43834?style=flat&logo=safari&logoColor=white"/></a>
+<a href="https://github.com/latelunchapps"><img src="https://img.shields.io/badge/-@latelunchapps-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://apps.apple.com/developer/id1336038163"><img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white"/></a>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -44,7 +48,6 @@ I run [**Late Lunch**](https://latelunch.app), an independent app studio from Sp
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://latelunch.app"><img src="https://img.shields.io/badge/-latelunch.app-E43834?style=flat&logoColor=white"/></a>
 <a href="https://linkedin.com/in/andergoig"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:goig.ander@gmail.com"><img src="https://img.shields.io/badge/-goig.ander@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
