@@ -1,0 +1,51 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    # Daily at 06:15 UTC, offset from the top of the hour.
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+
+# contents: write is enough to commit the generated SVG. The stats token is
+# only sent to the GitHub API by the generator; it is never printed.
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: false
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          # Same card as the previous embed: Algolia theme, icons, every commit.
+          # Private contributions are included when STATS_TOKEN can read them.
+          # count_private is kept for parity with that embed; this renderer
+          # counts private data from the token rather than from the flag.
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
+          path: assets/github-stats.svg
+          token: ${{ secrets.STATS_TOKEN || github.token }}
+          # Pin the renderer to the release this action version depends on,
+          # instead of the floating v2 range.
+          core_version: "2.2.0"
+          fail_on_error: true
+
+      - name: Commit stats card
+        run: |
+          git add -- assets/github-stats.svg
+          if git diff --cached --quiet; then
+            echo "Stats card unchanged; skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update GitHub stats card"
+          git push
